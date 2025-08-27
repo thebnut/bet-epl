@@ -1,0 +1,12 @@
+# Vercel ignore file
+node_modules
+.env.local
+.env*.local
+.git
+.gitignore
+*.md
+test-api.js
+setup.sh
+api-spec.md
+prd.md
+tech-requirements*.md
