@@ -35,7 +35,7 @@ export default function RootLayout({
                 <div className="flex items-center justify-between h-16">
                   <div className="flex items-center">
                     <h1 className="text-2xl font-bold text-primary-600">
-                      BetOdds <span className="text-gray-600">EPL</span>
+                      BetOdds <span className="text-gray-600">EPL</span> <span className="text-xs text-green-500">LIVE</span>
                     </h1>
                   </div>
                   <div className="text-sm text-gray-500">

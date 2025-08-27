@@ -1,5 +1,7 @@
 # BetOdds EPL - Australian Bookmaker Odds Comparison
 
+🔴 **LIVE DEMO**: [https://bet-epl.vercel.app](https://bet-epl.vercel.app)
+
 A simple, fast web application to compare EPL betting odds across major Australian bookmakers including Sportsbet, TAB, Neds, Ladbrokes, and more.
 
 ## Features
